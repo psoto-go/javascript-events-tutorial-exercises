@@ -4,7 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-var cli = document.getElementById("theGreen");
-cli.onclick = function prueba() {
-	alert("wuju");
-};
